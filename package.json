@@ -1,0 +1,22 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "description": "Meu primeiro aplicativo web com Node.Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viniseeus/Node.js.git"
+  },
+  "author": "Vinicius Vefago Goulart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viniseeus/Node.js/issues"
+  },
+  "homepage": "https://github.com/Viniseeus/Node.js#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
